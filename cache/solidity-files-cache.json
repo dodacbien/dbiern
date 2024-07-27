@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/workspace/dbiern/dbiern/contracts/Token.sol": {
-      "lastModificationDate": 1722092272572,
-      "contentHash": "347e34e2d2335f352f02f8f2c2b7b976",
+      "lastModificationDate": 1722092453835,
+      "contentHash": "ee2a528b2da6b30de4eced57be079182",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.8.20",
